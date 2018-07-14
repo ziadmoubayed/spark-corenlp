@@ -11,15 +11,13 @@ To import the methods `import static com.ziad.spark.nlp.functions.*`.
 * *`sentiment`*: Measures the sentiment of an input sentence on a scale of 0 (strong negative) to 4 (strong positive).
 
 Note: You need to add the core nlp models jar to your class path.
-LANGUAGE	VERSION
-[Arabic](http://nlp.stanford.edu/software/stanford-arabic-corenlp-2018-02-27-models.jar)		3.9.1
-Chinese		3.9.1
-English		3.9.1
-English (KBP)	.9.1
-French		3.9.1
-German		3.9.1
-Spanish		3.9.1
-
+ [Arabic](http://nlp.stanford.edu/software/stanford-arabic-corenlp-2018-02-27-models.jar)
+ [Chinese](http://nlp.stanford.edu/software/stanford-arabic-corenlp-2018-02-27-models.jar)
+ [English (KBP)](http://nlp.stanford.edu/software/stanford-arabic-corenlp-2018-02-27-models.jar)
+ [English](http://nlp.stanford.edu/software/stanford-arabic-corenlp-2018-02-27-models.jar)
+ [French](http://nlp.stanford.edu/software/stanford-arabic-corenlp-2018-02-27-models.jar)
+ [German](http://nlp.stanford.edu/software/stanford-arabic-corenlp-2018-02-27-models.jar)
+ [Spanish](http://nlp.stanford.edu/software/stanford-arabic-corenlp-2018-02-27-models.jar)
 
 Example of usage:
 ~~~Java
